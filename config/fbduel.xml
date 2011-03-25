@@ -1,0 +1,3 @@
+<!-- This file needs to sit in CATALINA_HOME/conf/Catalina/locahost. The name of the file becomes the path -->
+<Context path="" docBase="/home/terry/workspace/wars/FacebookDuelServer-1.0.war">
+</Context>
